@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Sam Pal
 
 You can use the [editor on GitHub](https://github.com/spal1/me/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
