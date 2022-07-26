@@ -2,3 +2,5 @@ this is a random piece of text
 hi
 another one
 update from test branch
+
+commit
